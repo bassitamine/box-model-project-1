@@ -1,0 +1,18 @@
+.Zyaad{
+    border: 30px solid salmon;
+    padding-left: 100px;
+    background-color: darkslategray;
+    margin-bottom: 10px;
+}
+p{
+    border: 30px dashed darkblue;
+    padding: 100px;
+    background-color: aqua;
+    margin: 76px;
+}
+.mouhad{
+    border: 10px dotted darkgreen;
+    padding-top:40px;
+    background-color: green;
+    margin-top:40px ;
+}
